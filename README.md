@@ -14,7 +14,7 @@ download the .zip file from the repository to access the files
 
 ## PROGRAMMING LANGUAGE USED
 
-![LOGO](https://blog.desafiolatam.com/wp-content/uploads/2018/05/swift-logo.png)
+![LOGO](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1024px-Swift_logo.svg.png)
 
 ## IDE USADED
 
