@@ -14,7 +14,7 @@ download the .zip file from the repository to access the files
 
 ## VIDEO ON YOUTUBE ABOUT THE APP
 
-https://www.youtube.com/watch?v=Q4sJ0ghPNhY
+![VIDEO] https://www.youtube.com/watch?v=Q4sJ0ghPNhY
 
 ## PROGRAMMING LANGUAGE USED
 
