@@ -13,7 +13,6 @@ download the .zip file from the repository to access the files
 ![App Screenshot](https://br.atsit.in/es/wp-content/uploads/2021/06/como-descargar-archivos-y-ver-codigo-desde-github-9.png)
 
 ## VIDEO ON YOUTUBE ABOUT THE APP
-[![Alt text](https://img.youtube.com/vi/Q4sJ0ghPNhY/0.jpg)](https://www.youtube.com/watch?v=Q4sJ0ghPNhY)
 
 [![](https://markdown-videos.deta.dev/youtube/Q4sJ0ghPNhY)](https://youtu.be/Q4sJ0ghPNhY)
 
