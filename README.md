@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=Q4sJ0ghPNhY
 
 ## PROGRAMMING LANGUAGE USED
 
-![LOGO](https://w7.pngwing.com/pngs/344/213/png-transparent-swift-playgrounds-alt-macos-bigsur-icon-thumbnail.png)
+![LOGO](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/2560px-Swift_logo.svg.png)
 
 ## IDE USADED
 
