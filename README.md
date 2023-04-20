@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=Q4sJ0ghPNhY
 
 ## PROGRAMMING LANGUAGE USED
 
-![LOGO](https://e7.pngegg.com/pngimages/912/253/png-clipart-apple-worldwide-developers-conference-swift-apple-developer-eagle-security-logo-text-logo-thumbnail.png)
+![LOGO](https://w7.pngwing.com/pngs/499/698/png-transparent-swift-playgrounds-apple-computer-icons-computer-programming-apple-orange-logo-computer-programming.png)
 
 ## IDE USADED
 
